@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![Profile Views](https://img.shields.io/github/followers/NeGaTiv-0?style=for-the-badge&color=6366f1&labelColor=0f0f0f&label=PROFILE+VIEWS)]()
+[![Profile Views](https://img.shields.io/github/followers/NeGaTiv-0?style=for-the-badge&color=6366f1&labelColor=0f0f0f&label=PROFILE+VIEWS)](https://github.com/NeGaTiv-0)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/NeGaTiv-0?style=for-the-badge&color=6366f1&labelColor=0f0f0f&label=FOLLOWERS)]()
 &nbsp;
