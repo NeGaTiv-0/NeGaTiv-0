@@ -1,111 +1,95 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,50:1a1a2e,100:16213e&text=Negativ&reversal=false&textBg=false&fontColor=ffffff&fontAlign=50&desc=Full-Stack%20Software%20Developer&descSize=18&fontSize=80&section=header&fontAlignY=35&animation=fadeIn&descAlignY=63" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,50:7f1d1d,100:ef4444&text=Negativ&reversal=false&textBg=false&fontColor=ffffff&fontAlign=50&desc=Full-Stack%20Software%20Developer&descSize=18&fontSize=80&section=header&fontAlignY=35&animation=fadeIn&descAlignY=63" alt="Negativ - Full-Stack Software Developer" width="100%" />
 </div>
 
-<br />
-
-<div align="center"> 
-
-![Profile Views](https://komarev.com/ghpvc/?username=NeGaTiv-0&style=for-the-badge&color=6366f1&label=PROFILE%20VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/NeGaTiv-0?style=for-the-badge&color=6366f1&labelColor=0f0f0f&label=FOLLOWERS)](https://github.com/NeGaTiv-0)
-[![GitHub stars](https://img.shields.io/github/stars/NeGaTiv-0?style=for-the-badge&color=f59e0b&labelColor=0f0f0f&label=STARS)](https://github.com/NeGaTiv-0)
-
+<div align="center">
+    <a href="https://github.com/NeGaTiv-0">
+        <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=EF4444&center=true&vCenter=true&width=720&lines=STRICT+TYPES.+ZERO+EXCUSES.;BACKENDS+THAT+SURVIVE+PRODUCTION.;INTERFACES+THAT+FEEL+INSTANT.;LUA+WHEN+EVERY+MILLISECOND+COUNTS." alt="Typing animation" />
+    </a>
 </div>
 
-<hr>
+<div align="center">
+    <img src="https://img.shields.io/badge/EXPERIENCE-6%2B%20YEARS-ef4444?style=for-the-badge&labelColor=000000" alt="6+ years" />
+    <a href="https://github.com/NeGaTiv-0?tab=followers"><img src="https://img.shields.io/github/followers/NeGaTiv-0?style=for-the-badge&color=ef4444&labelColor=000000&label=FOLLOWERS" alt="Followers" /></a>
+    <img src="https://hits.sh/github.com/NeGaTiv-0.svg?style=for-the-badge&label=VIEWS&color=ef4444&labelColor=000000" alt="Profile views" />
+</div>
 
-## `> About Me`
-
-**Full-Stack Software Developer** focused on building scalable, high-quality software solutions. With more than 5 years of experience, I specialize in designing robust backend systems and modern web applications that prioritize performance, maintainability, and user experience. My goal is to deliver software that remains reliable, efficient, and valuable as products grow.
 <br><br>
-*I believe that great software is built through simplicity, consistency, and attention to detail — not unnecessary complexity.*
 
-<hr>
+# `> ABOUT`
 
-## `> Technical Skills`
+I design and build software that keeps working after the launch party is over. More than six years of delivering web applications, backend services, automation and game systems taught me that the expensive part of software is never the first version. It is the thousandth change.
 
-### Main Languages
+<br>
 
-<div align="left">
-    
-![TypeScript](https://img.shields.io/badge/TypeScript-0f0f0f?style=for-the-badge&logo=typescript)
-![C#](https://img.shields.io/badge/C%23-0f0f0f?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-0f0f0f?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![Lua](https://img.shields.io/badge/Lua-0f0f0f?style=for-the-badge&logo=lua&logoColor=000080)
-![SQL](https://img.shields.io/badge/SQL-0f0f0f?style=for-the-badge&logo=postgresql)
+# `> WHAT I BUILD`
 
-</div>
+| DOMAIN                     | WHAT YOU GET                                                                                                                                   |
+| :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Web applications**       | Fast, polished websites and web apps, from public landing pages to full admin panels, that work equally well on a phone and on a wide desktop. |
+| **Backend and automation** | Reliable services, databases and internal tools that handle the repetitive work on their own and keep running without attention.               |
+| **Game systems**           | Gameplay mechanics, game logic, interfaces, economies, tools, frameworks and backend integrations for games, built to stay smooth under load.  |
 
-### Frontend Development
+<br>
 
-<div align="left">
+# `> ARSENAL`
 
-![React](https://img.shields.io/badge/React-0f0f0f?style=for-the-badge&logo=react)
-![Vue](https://img.shields.io/badge/Vue-0f0f0f?style=for-the-badge&logo=vue.js)
-![Vite](https://img.shields.io/badge/Vite-0f0f0f?style=for-the-badge&logo=vite)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f0f0f?style=for-the-badge&logo=tailwindcss)
-![Radix UI](https://img.shields.io/badge/Radix_UI-0f0f0f?style=for-the-badge&logo=radixui)
+<div align="center">
 
-</div>
+### LANGUAGES
 
-### Backend Development, Data & Validation
+<img src="https://skillicons.dev/icons?i=ts,rust,cs,c,lua,bash&theme=dark" alt="TypeScript, Rust, C#, C, Lua, Bash" />
 
-<div align="left">
+### FRONTEND
 
-![Node.js](https://img.shields.io/badge/Node.js-0f0f0f?style=for-the-badge&logo=node.js)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0f0f?style=for-the-badge&logo=PostgreSQL)
-![Redis](https://img.shields.io/badge/Redis-0f0f0f?style=for-the-badge&logo=redis)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-0f0f0f?style=for-the-badge&logo=reactquery)
-![Zod](https://img.shields.io/badge/Zod-0f0f0f?style=for-the-badge&logo=zod)
+<img src="https://skillicons.dev/icons?i=react,vue,vite,tailwind,nextjs,sass,redux&theme=dark" alt="React, Vue, Vite, Tailwind CSS, Next.js, Sass, Redux" />
+
+### BACKEND AND DATA
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,express,docker,linux&theme=dark" alt="Node.js, PostgreSQL, Redis, Express, Docker, Linux" />
+
+### TOOLING AND QUALITY
+
+<img src="https://skillicons.dev/icons?i=git,github,pnpm,sentry,figma,vscode,vitest,postman&theme=dark" alt="Git, GitHub, pnpm, Sentry, Figma, VS Code, Vitest, Postman" />
 
 </div>
 
-### Tooling, DevOps & QA
+<br>
 
-<div align="left">
-    
-![Git](https://img.shields.io/badge/Git-0f0f0f?style=for-the-badge&logo=git)
-![pnpm](https://img.shields.io/badge/pnpm-0f0f0f?style=for-the-badge&logo=pnpm)
-![ESLint](https://img.shields.io/badge/ESLint-0f0f0f?style=for-the-badge&logo=eslint)
-![Sentry](https://img.shields.io/badge/Sentry-0f0f0f?style=for-the-badge&logo=sentry)
-![Husky](https://img.shields.io/badge/Husky-0f0f0f?style=for-the-badge&logo=husky)
-![Figma](https://img.shields.io/badge/Figma-0f0f0f?style=for-the-badge&logo=figma)
+# `> EXPERIENCE`
 
-</div>
+### **Lead Administrator** | _CodeM - codem.tebex.io_ | _2024 - Present_
 
-<hr>
-
-## `> Work Experience`
-
-### **Lead Administrator** | *CodeM - codemstore.com* | *2024 - Present*
 - Overseeing overall ticket workflows and system processes while monitoring behavior to ensure professional standards are met.
 - Handling complex, escalated tickets and providing deep subject-matter expertise on challenging cases.
 - Driving team efficiency and continuous process improvements based on system performance data and automated workflows.
 
-### **FiveM and Game Systems Developer** | Contract | *2022 - Present*
+### **FiveM and Game Systems Developer** | _Contract_ | _2022 - Present_
+
 - Developing advanced game systems, UI solutions, and backend integrations.
 - Creating highly optimized Lua-based resources and custom frameworks.
 - Maintaining large-scale community projects with a focus on performance and user experience.
 
-### **Freelance Software Developer** | Remote | *2021 - Present*
+### **Freelance Software Developer** | _Remote_ | _2021 - Present_
+
 - Designing and developing custom web applications, backend services, and automation tools for private customers.
 - Resolving complex technical issues and providing guidance on advanced development-related inquiries.
 - Contributing to process optimization, automation initiatives, and overall service quality improvements.
 
-<hr>
+<br>
+
+# `> PHILOSOPHY`
 
 <div align="center">
-    
-```
-╔═══════════════════════════════════════════════════════════╗
-║                        Contact Me                         ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
+    <strong>Great software is built through simplicity, consistency and attention to detail. Not unnecessary complexity.</strong>
 </div>
 
+<br>
+
+# `> CONTACT`
+
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:negativ4en@gmail.com)
-
-</div> 
+    Have a hard problem, a system that needs to scale, or a project that must not fail?
+    <br><br>
+    <a href="mailto:negativ4en@gmail.com"><img src="https://img.shields.io/badge/EMAIL-negativ4en%40gmail.com-ef4444?style=for-the-badge&labelColor=000000&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
